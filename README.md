@@ -20,7 +20,7 @@ Exploratory Data Analysis (EDA) was performed to understand the data distributio
 2. **Feature Selection**: Selecting features that contribute most to the predictive power of the model.
 
 ## Model Selection and Performance
-Several machine learning models were trained and evaluated using cross-validation. The accuracy of each model was as follows:
+Several machine learning models were trained and evaluated using **cross-validation**. The accuracy of each model was as follows:
 - **Logistic Regression**: 77%
 - **Gaussian Naive Bayes**: 78%
 - **Decision Tree Classifier**: 97.3%
