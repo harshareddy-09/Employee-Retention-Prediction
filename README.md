@@ -20,16 +20,19 @@ Exploratory Data Analysis (EDA) was performed to understand the data distributio
 2. **Feature Selection**: Selecting features that contribute most to the predictive power of the model.
 
 ## Model Selection and Performance
-Several machine learning models were trained and evaluated using **cross-validation**. The accuracy of each model was as follows:
+Several machine learning models were trained and evaluated using **Cross-Validation**. The accuracy of each model was as follows:
 - **Logistic Regression**: 77%
 - **Gaussian Naive Bayes**: 78%
 - **Decision Tree Classifier**: 97.3%
 - **Random Forest Classifier**: 98.6%
 
-Based on these results, **RandomForestClassifier** was selected as the final model due to its high accuracy of 98.6%.
+Based on these results, **RandomForestClassifier** was selected as the final model due to its high accuracy of **98.6%**.
 
-## Installation and Requirements
-To run this project, ensure you have Python installed and the following packages:
+## Predicting New Samples
+The **RandomForestClassifier** model can be used to predict employee retention for new samples based on the selected features. Simply provide new sample data in the required format to obtain predictions.
 
-```bash
-pip install numpy pandas scikit-learn matplotlib seaborn
+## Conclusion
+This project successfully implemented an employee retention prediction model with a high accuracy of 98.6% using the **RandomForestClassifier**. This model can assist HR departments in identifying employees who might be at risk of leaving, allowing proactive strategies for employee retention.
+
+
+
