@@ -46,7 +46,3 @@ To start the Streamlit app, navigate to the project folder in your terminal and 
 
 ```bash
 streamlit run employee_retainer.py
-
-
-
-
