@@ -34,7 +34,7 @@ The **RandomForestClassifier** model can be used to predict employee retention f
 ## Conclusion
 This project successfully implemented an employee retention prediction model with a high accuracy of 98.6% using the **RandomForestClassifier**. This model can assist HR departments in identifying employees who might be at risk of leaving, allowing proactive strategies for employee retention.
 
-## Streamlit Web App for Employee Retention Prediction
+## Streamlit Web App
 A Streamlit web application has been built to allow users to predict whether an employee will stay or leave the company based on various input features. You can test new samples by accessing the local URL of the Streamlit app:
 
 - **Local URL**: [http://localhost:8503/](http://localhost:8503/)
