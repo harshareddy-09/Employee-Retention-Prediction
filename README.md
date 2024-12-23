@@ -43,4 +43,4 @@ The app enables quick testing by inputting employee parameters to see their rete
 To start the Streamlit app, navigate to the project folder in your terminal and run the following command:
 
 ```bash
-streamlit app.py
+streamlit run app.py
